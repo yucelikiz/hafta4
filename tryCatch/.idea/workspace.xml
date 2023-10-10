@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97262658-a0e0-412e-b2bf-0d28807d3a2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/AdventureGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Archer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Armor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/BattleLoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Bear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Cavalier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Cave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Forest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/GameChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Inventory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Mine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/NormalLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/River.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/SafeHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Samurai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/ToolStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Vampire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/out/production/AdventureGame/Zombie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Armor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/BattleLoc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Bear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Cavalier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Cave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Forest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/GameChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Mine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/NormalLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/River.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/SafeHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Samurai.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/ToolStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Vampire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdventureGame/src/Zombie.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2WZ1m8r82oQHfL9r3lr1BSxzgzA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97262658-a0e0-412e-b2bf-0d28807d3a2b" name="Changes" comment="" />
+      <created>1696925443706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696925443706</updated>
+    </task>
+    <servers />
+  </component>
+</project>
